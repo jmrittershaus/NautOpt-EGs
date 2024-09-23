@@ -1,0 +1,6 @@
+using namespace std;
+using namespace std::CartoonNameSpace {
+ 	CartoonNameSpace::JansAge = 42;
+ 	CartoonNameSpace::incrementJansAge();
+ 	cout << CartoonNameSpace::JansAge << endl;
+}
